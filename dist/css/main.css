@@ -1,0 +1,50 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+#content{
+    float:left;
+    height:auto;
+    width:80%;
+    border: 1px solid #efefef;
+    border-left: 15px solid #eeeeee;
+}
+.auth{
+    color:#ef6655;
+}
+.edit{
+    background:#eeefff;
+    border-radius: 5px;
+    padding: 10px;
+}
+.cate{
+    color:grey;
+    float:right;
+}
+#sidebar{
+    float: right;
+    text-align: right;
+    float:right;
+    width:20%;
+}
+.header{
+    width:100%;
+    height:100px;
+    background-color: #efefef;
+}
+#page{
+    height: auto;
+    border:1px solid #eeeeee;
+}
+footer{
+    width:100%;
+    height:10%;
+    background-color:#666;
+}
+#mynav{
+    background: #44faef;
+}
+#mynav a{
+    text-decoration: none;
+    color:white;
+    font-size: 26px;
+}
